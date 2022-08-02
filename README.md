@@ -11,6 +11,14 @@ If for some reason you still have no environment variable set follow [this link]
 - Only compressed ore!
 - Only one contract per player!
 
+## How to download
+- Go to the top of current page
+- Click Code > Download ZIP
+![alt text](docs/download.png)
+- Unpack zip
+- Open app via taxer.cmd shortcut
+![alt text](docs/app.png)
+
 ## How it works
 - In eve inventory select all COMPRESSED moon ore, copy to clipboard(ctrl+c)
 - Open Moon Taxer app (taxer.cmd)
