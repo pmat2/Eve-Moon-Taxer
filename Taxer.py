@@ -4,7 +4,7 @@ header = """
 /********************\\
     Moon Taxer
     Author: Zonnie
-    v0.2
+    v0.3
 \\********************/
 """
 
@@ -50,7 +50,6 @@ char_labels = []
 values = []
 raw = {}
 
-
 padx = pady = 10
 
 root = tk.Tk()
@@ -79,10 +78,10 @@ def remove_characters():
     characters.clear()
 
 def after_tax(val, tax):
-    return str(int(val) * (100 - tax) / 100)
+    return str(round(int(val) * (100 - tax) / 100))
 
 def tax(val, tax):
-    return str(int(val) * tax / 100)
+    return str(round(int(val) * tax / 100))
 
 def message_characters():
     message = 'Characters:\n'
