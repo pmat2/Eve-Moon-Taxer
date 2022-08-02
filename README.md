@@ -3,6 +3,7 @@ This is tool for our corp members to calculate mined moon ore tax.
 
 ## Installation
 Install python3 [link](https://www.python.org/downloads/). During installation you will be asked to add path variable - check that field.
+
 ![alt text](docs/py_install_var.png "python env variable")
 
 If for some reason you still have no environment variable set follow [this link](docs/PythonEnvVar.md).
@@ -18,15 +19,19 @@ If for some reason you still have no environment variable set follow [this link]
 ![alt text](docs/download.png)
 
 - Unpack zip
+
 ![alt text](docs/extract.png)
 
 - Chose destination
+
 ![alt text](docs/extract_dest.png)
 
 - Go to given directory
+
 ![alt text](docs/taxer%20open.png)
 
 - Open app via taxer.cmd shortcut
+
 ![alt text](docs/more%20info.png)
 
 ![alt text](docs/run.png)
@@ -34,7 +39,9 @@ If for some reason you still have no environment variable set follow [this link]
 ![alt text](docs/running%20app.png)
 
 ## App GUI
+
 ![alt text](docs/app%20instructions.png)
+
 - 1. Character field
 - 2. Add character button
 - 3. Clear characters button
@@ -51,7 +58,9 @@ During program running there will be black terminal in background. You can ignor
 - If for any reason you made a typo in character name you can clear list with 'Clear characters button' (3).
 - Click 'Submit button'(5).
 - Window will pop up.
+
 ![alt text](docs/success%20message.png)
+
 - At this point parsed message is copied to your clipboard.
 - Contact moon officer, paste copied message.
 - Done!
