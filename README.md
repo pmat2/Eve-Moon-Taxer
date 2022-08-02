@@ -14,9 +14,12 @@ If for some reason you still have no environment variable set follow [this link]
 ## How to download
 - Go to the top of current page
 - Click Code > Download ZIP
+
 ![alt text](docs/download.png)
+
 - Unpack zip
 - Open app via taxer.cmd shortcut
+
 ![alt text](docs/app.png)
 
 ## How it works
