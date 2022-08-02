@@ -4,15 +4,35 @@ header = """
 /********************\\
     Moon Taxer
     Author: Zonnie
-    v0.1
+    v0.2
 \\********************/
 """
 
-r4_l = ['Compressed Hydrocarbons', 'Compressed Atmospheric Gases', 'Compressed Evaporite Deposits', 'Compressed Silicates']
-r8_l = ['Compressed Cobalt', 'Compressed Scandium', 'Compressed Tungsten', 'Compressed Titanium']
-r16_l = ['Compressed Chromium', 'Compressed Cadmium', 'Compressed Platinum', 'Compressed Vanadium']
-r32_l = ['Compressed Technetium', 'Compressed Mercury', 'Compressed Caesium', 'Compressed Hafnium']
-r64_l = ['Compressed Promethium', 'Compressed Neodymium', 'Compressed Dysprosium', 'Compressed Thulium']
+r4_l = ['Compressed Bitumens', 'Compressed Brimful Bitumens', 'Compressed Glistening Bitumens',
+'Compressed Coesite', 'Compressed Brimful Coesite', 'Compressed Glistening Coesite',
+'Compressed Sylvite', 'Compressed Brimful Sylvite', 'Compressed Glistening Sylvite',
+'Compressed Zeolites', 'Compressed Brimful Zeolites', 'Compressed GlisteningZeolites']
+
+r8_l = ['Compressed Cobaltite', 'Compressed Copious Cobaltite', 'Compressed Twinkling Cobaltite',
+'Compressed Euxenite', 'Compressed Copious Euxenite', 'Compressed Twinkling Euxenite',
+'Compressed Scheelite', 'Compressed Copious Scheelite', 'Compressed Twinkling Scheelite',
+'Compressed Titanite', 'Compressed Copious Titanite', 'Compressed Twinkling Titanite']
+
+r16_l = ['Compressed Chromite', 'Compressed Lavish Chromite', 'Compressed Shimmering Chromite',
+'Compressed Otavite', 'Compressed Lavish Otavite', 'Compressed Shimmering Otavite',
+'Compressed Sperrylite', 'Compressed Lavish Sperrylite', 'Compressed Shimmering Sperrylite',
+'Compressed Vanadinite', 'Compressed Lavish Vanadinite', 'Compressed Shimmering Vanadinite']
+
+r32_l = ['Compressed Carnotite', 'Compressed Replete Carnotite', 'Compressed Glowing Carnotite',
+'Compressed Cinnabar', 'Compressed Replete Cinnabar', 'Compressed Glowing Cinnabar',
+'Compressed Pollucite', 'Compressed Replete Pollucite', 'Compressed Glowing Pollucite',
+'Compressed Zircon', 'Compressed Replete Zircon', 'Compressed Glowing Zircon']
+
+r64_l = ['Compressed Loparite','Compressed Bountiful Loparite', 'Compressed Shining Loparite',
+'Compressed Monazite', 'Compressed Bountiful Monazite', 'Compressed Shining Monazite',
+'Compressed Xenotime', 'Compressed Bountiful Xenotime', 'Compressed Shining Xenotime',
+'Compressed Ytterbite', 'Compressed Bountiful Ytterbite', 'Compressed Shining Ytterbite']
+
 
 r4 = {}
 r8 = {}
