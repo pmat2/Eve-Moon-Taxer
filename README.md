@@ -41,6 +41,8 @@ If for some reason you still have no environment variable set follow [this link]
 - 4. Characters list
 - 5. Submit button
 
+During program running there will be black terminal in background. You can ignore it. Terminal displays header, raw input and final result after submission.
+
 ## How it works
 - In Eve Online open inventory with mined ore.
 - Select all mined ore(you can just ctrl+a, program knows which is moon ore and which not)

@@ -115,6 +115,7 @@ def submit_action():
         clip = tk.Tk()
         clip.withdraw()
         clipboard = clip.clipboard_get().split('\n')
+        print('Raw input:\n' + clip.clipboard_get() + '\n**********\n')
         for elem in clipboard:
             values.append(elem)
 
