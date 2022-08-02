@@ -7,6 +7,10 @@ Install python3 [link](https://www.python.org/downloads/). During installation y
 
 If for some reason you still have no environment variable set follow [this link](docs/PythonEnvVar.md).
 
+## Rules
+- Only compressed ore!
+- Only one contract per player!
+
 ## How it works
 - In eve inventory select all COMPRESSED moon ore, copy to clipboard(ctrl+c)
 - Open Moon Taxer app (taxer.cmd)
