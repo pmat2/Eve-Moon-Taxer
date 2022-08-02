@@ -33,7 +33,6 @@ r64_l = ['Compressed Loparite','Compressed Bountiful Loparite', 'Compressed Shin
 'Compressed Xenotime', 'Compressed Bountiful Xenotime', 'Compressed Shining Xenotime',
 'Compressed Ytterbite', 'Compressed Bountiful Ytterbite', 'Compressed Shining Ytterbite']
 
-
 r4 = {}
 r8 = {}
 r16 = {}
