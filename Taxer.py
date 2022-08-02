@@ -8,11 +8,11 @@ header = """
 \\********************/
 """
 
-r4_l = ['Hydrocarbons', 'Atmospheric Gases', 'Evaporite Deposits', 'Silicates']
-r8_l = ['Cobalt', 'Scandium', 'Tungsten', 'Titanium']
-r16_l = ['Chromium', 'Cadmium', 'Platinum', 'Vanadium']
-r32_l = ['Technetium', 'Mercury', 'Caesium', 'Hafnium']
-r64_l = ['Promethium', 'Neodymium', 'Dysprosium', 'Thulium']
+r4_l = ['Compressed Hydrocarbons', 'Compressed Atmospheric Gases', 'Compressed Evaporite Deposits', 'Compressed Silicates']
+r8_l = ['Compressed Cobalt', 'Compressed Scandium', 'Compressed Tungsten', 'Compressed Titanium']
+r16_l = ['Compressed Chromium', 'Compressed Cadmium', 'Compressed Platinum', 'Compressed Vanadium']
+r32_l = ['Compressed Technetium', 'Compressed Mercury', 'Compressed Caesium', 'Compressed Hafnium']
+r64_l = ['Compressed Promethium', 'Compressed Neodymium', 'Compressed Dysprosium', 'Compressed Thulium']
 
 r4 = {}
 r8 = {}
