@@ -42,11 +42,11 @@ If for some reason you still have no environment variable set follow [this link]
 
 ![alt text](docs/app%20instructions.png)
 
-- 1. Character field
-- 2. Add character button
-- 3. Clear characters button
-- 4. Characters list
-- 5. Submit button
+- (1) Character field
+- (2) Add character button
+- (3) Clear characters button
+- (4) Characters list
+- (5) Submit button
 
 During program running there will be black terminal in background. You can ignore it. Terminal displays header, raw input and final result after submission.
 
