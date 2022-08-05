@@ -6,6 +6,10 @@ Install python3 [link](https://www.python.org/downloads/). During installation y
 
 ![alt text](docs/py_install_var.png "python env variable")
 
+OR
+
+![alt text](docs/path.png "python env variable")
+
 If for some reason you still have no environment variable set follow [this link](docs/PythonEnvVar.md).
 
 ## Rules
